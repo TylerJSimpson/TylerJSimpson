@@ -11,5 +11,3 @@
 * **Visualization:** Tableau, PowerBI, Data Studio, SalesForce
 * **Production:** Google Cloud Products, Jupyter Notebooks, TensorFlow
 * **Spreadsheets:** VLOOKUP, pivots, conditionals
-  
-![My Codewarrior Profile Badge](https://www.codewars.com/users/TylerJSimpson/badges/large)
