@@ -6,8 +6,9 @@
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
 
 ### Skills
-* **SQL:** CTEs, joins, subqueries
+* **SQL:** CTEs, joins, subqueries, BigQuery
 * **Python:** Pandas, Seaborn, Numpy, Matplotlib, Scikitlearn
-* **Visualization:** Tableau, PowerBI, Data Studio, SalesForce
+* **Visualization:** Tableau, PowerBI, Data Studio
 * **Production:** Google Cloud Products, Jupyter Notebooks, TensorFlow
 * **Spreadsheets:** VLOOKUP, pivots, conditionals
+* **CRM:** SalesForce
