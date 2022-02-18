@@ -7,10 +7,11 @@
 
 ### Skills
 * **SQL:** CTEs, joins, subqueries, BigQuery
-* **Python:** Pandas, Seaborn, Numpy, Matplotlib, BeatifulSoup, Jupyter Notebooks
+* **Python:** Pandas, Seaborn, Numpy, Matplotlib, BeatifulSoup
 * **Visualization:** Tableau, PowerBI, Data Studio
 * **Spreadsheets:** VLOOKUP, pivots, conditionals
 * **Machine Learning:** ScikitLearn*, TensorFlow*, PyTorch*
+* **Other Tools:** Jupyter Notebooks, VSCode
 * **CRM:** SalesForce  
 
 *Please note that * means I am in the beginning stages and developing my knowledge*
