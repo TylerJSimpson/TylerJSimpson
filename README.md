@@ -7,7 +7,7 @@
 
 ### Skills
 * **SQL:** CTEs, joins, subqueries, BigQuery
-* **Python:** Pandas, Seaborn, Numpy, Matplotlib, BeatifulSoup
+* **Python:** Pandas, Seaborn, Numpy, Matplotlib, Selenium, BeatifulSoup
 * **Visualization:** Tableau, PowerBI, Data Studio
 * **Spreadsheets:** VLOOKUP, pivots, conditionals
 * **Machine Learning:** ScikitLearn*, TensorFlow*, PyTorch*
