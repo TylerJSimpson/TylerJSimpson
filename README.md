@@ -1,6 +1,6 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
 ### Data Analyst and Account Manager/Developer
-- 🔭 *I’m currently working on* ... a webscraping project using **python/selenium** and a molecular weight calculator using **python**
+- 🔭 *I’m currently working on* ... a consulting webscraping project using **python/selenium/pandas** and a molecular weight calculator using **python**
 - 🌱 *I’m currently learning* ... Data science via the career path on 365 Data Science
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)**, **[Portfolio](https://www.tylerjsimpson.com/)**, or **Email SimpsonTylerJames@Gmail.com**
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
