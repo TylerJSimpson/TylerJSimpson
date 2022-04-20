@@ -1,6 +1,6 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
 ### Data Analyst and Key Account Manager
-- 🔭 *I’m currently working on* ... a consulting webscraping project using **python/selenium/pandas** and some beginner machine learning projects
+- 🔭 *I’m currently working on* ... a webscraping project for a logistics company and some personal machine learning/deep learning projects
 - 🌱 *I’m currently learning* ... Data science via the career path on 365 Data Science
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)**, **[Portfolio](https://www.tylerjsimpson.com/)**, or **Email SimpsonTylerJames@Gmail.com**
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
@@ -10,7 +10,7 @@
 * **Python:** Pandas/Numpy, Matplotlib/Seaborn, Selenium, BeatifulSoup, RegEx
 * **Visualization:** Tableau, PowerBI, Data Studio
 * **Spreadsheets:** VLOOKUP, pivots, conditionals
-* **Machine Learning:** ScikitLearn*, TensorFlow*, PyTorch*
+* **Machine Learning:** ScikitLearn, TensorFlow, PyTorch*
 * **Other Tools:** Jupyter/Colab, Google Cloud Products
 * **CRM:** SalesForce  
 
