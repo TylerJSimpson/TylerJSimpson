@@ -10,7 +10,7 @@
 * **Python:** Pandas/Numpy, Matplotlib/Seaborn, Selenium, BeatifulSoup, RegEx
 * **Visualization:** Tableau, PowerBI, Data Studio
 * **Spreadsheets:** VLOOKUP, pivots, conditionals
-* **Machine Learning:** ScikitLearn, TensorFlow, PyTorch*
+* **Machine Learning:** ScikitLearn, TensorFlow
 * **Other Tools:** Jupyter/Colab, Google Cloud Products
 * **CRM:** SalesForce  
 
