@@ -11,6 +11,9 @@
 * **Visualization:** Tableau, PowerBI, Data Studio
 * **Spreadsheets:** VLOOKUP, pivots, conditionals
 * **Machine Learning:** ScikitLearn, TensorFlow
+  * **Supervised:** (regression, classification)  
+  * **Unsupervised:** (clustering)
+  * Neural Networks* 
 * **Other Tools:** Jupyter/Colab, Google Cloud Products
 * **CRM:** SalesForce  
 
