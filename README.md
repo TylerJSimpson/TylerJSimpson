@@ -13,8 +13,6 @@
 * **Machine Learning:** ScikitLearn, TensorFlow
   * **Supervised:** (regression, classification)  
   * **Unsupervised:** (clustering)
-  * Neural Networks* 
+  * Neural Networks 
 * **Other Tools:** Jupyter/Colab, Google Cloud Products
 * **CRM:** SalesForce  
-
-*Please note that * means I am in the beginning stages and developing my knowledge*
