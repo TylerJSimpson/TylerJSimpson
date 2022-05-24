@@ -1,7 +1,7 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
 ### Data Scientist and Key Account Manager
-- 🔭 *I’m currently working on* ... a webscraping project for a logistics company and some personal machine learning projects
-- 🌱 *I’m currently learning* ... Deep neural nets and ML in production
+- 🔭 *I’m currently working on* ... ETL processes for a finance company and finishing up the Data Science career track at 365 Data Science
+- 🌱 *I’m currently learning* ... Web scraping and cloud databasing
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)**, **[Portfolio](https://www.tylerjsimpson.com/)**, or **Email SimpsonTylerJames@Gmail.com**
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
 
