@@ -1,5 +1,5 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-### Data Scientist and Key Account Manager
+### Data Scientist
 - 🔭 *I’m currently working on* ... Fintech consulting projects including developing an ETL pipeline and analytics interface.
 - 🌱 *I’m currently learning* ... Advanced python programming and ML/NNs. I am wrapping up the Data Science career track at 365 Data Science.
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)**, **[Portfolio](https://www.tylerjsimpson.com/)**, or **Email SimpsonTylerJames@Gmail.com**
