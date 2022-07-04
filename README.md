@@ -17,5 +17,5 @@
 * **Other Tools:** Jupyter/Colab, Google Cloud Products
 * **CRM:** SalesForce  
 
-### Feel free to follow along on **[Kaggle](https://www.kaggle.com/tjsimpson)**, though I am very new.  
-### My **[Portfolio](https://www.tylerjsimpson.com/)** tends to lag behind but has some of my older projects.
+#### Feel free to follow along on **[Kaggle](https://www.kaggle.com/tjsimpson)**, though I am very new.  
+#### My **[Portfolio](https://www.tylerjsimpson.com/)** tends to lag behind but has some of my older projects.
