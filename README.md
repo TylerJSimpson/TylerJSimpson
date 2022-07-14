@@ -1,5 +1,5 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-### I am a Data Science Consultant
+### I am a Data Science Consultant and Business Systems Analyst
 - 🔭 *I’m currently working on* ... Finance data consulting projects including developing an ETL pipeline and BI interface.
 - 🌱 *I’m currently learning* ... Andrew Ng's new machine learning course on coursera.
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or **Email SimpsonDataScience@Gmail.com**
