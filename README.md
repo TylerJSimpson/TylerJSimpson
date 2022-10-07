@@ -1,5 +1,5 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-### I am a Data Science Consultant and Business Systems Analyst
+### I am an Analytics Consultant and Business Systems Analyst
 - 🔭 *I’m currently working on* ... Finance data consulting projects including automation.
 - 🌱 *I’m currently learning* ... Azure Adminitrator AZ-104.
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or **Email SimpsonDataScience@Gmail.com**
