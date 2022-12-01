@@ -7,14 +7,14 @@
 
 ### Skills
 * **SQL:** CTEs, windows, functions, stored procedures
-* **Python:** Pandas/Numpy, Matplotlib/Seaborn, Selenium, BeatifulSoup, RegEx
+* **Python:** Pandas/Numpy, PySpark, Matplotlib/Seaborn, Selenium, BeatifulSoup, RegEx
 * **Visualization:** PowerBI, Tableau, Data Studio
 * **Spreadsheets:** VLOOKUP, pivots, conditionals
 * **Machine Learning:** ScikitLearn, TensorFlow
   * **Supervised:** (regression, classification)  
   * **Unsupervised:** (clustering)
   * Neural Networks 
-* **Other Tools:** Jupyter/Colab, Azure, Google Cloud Products
+* **Other Tools:** Azure, Spark, Jupyter/Colab
 * **CRM:** SalesForce  
 
 #### My **[Portfolio](https://www.tylerjsimpson.com/)** tends to lag behind but has some of my older projects.
