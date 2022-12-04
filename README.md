@@ -1,6 +1,6 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-### I am an Analytics Consultant and Business System Analyst
-- 🔭 *I’m currently working on* ... Finance data consulting projects including automation.
+### I am a Data Engineer and Analytics Consultant
+- 🔭 *I’m currently working on* ... building automated data workflows (Power Platform) for a finance customer.
 - 🌱 *I’m currently learning* ... Azure Data Engineer Associate DP-203.
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or **Email SimpsonDataScience@Gmail.com**
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver.  
