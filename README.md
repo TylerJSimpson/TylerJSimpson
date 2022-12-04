@@ -14,7 +14,6 @@
   * **Supervised:** (regression, classification)  
   * **Unsupervised:** (clustering)
   * Neural Networks 
-* **Other Tools:** Azure, Spark, Jupyter/Colab
-* **CRM:** SalesForce  
+* **Other Tools:** Azure, Spark, Jupyter/Colab, Salesforce
 
 #### My **[Portfolio](https://www.tylerjsimpson.com/)** tends to lag behind but has some of my older projects.
