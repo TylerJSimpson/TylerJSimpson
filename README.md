@@ -9,11 +9,14 @@
 * **SQL:** CTEs, windows, functions, stored procedures
 * **Python:** Pandas/Numpy, PySpark, Matplotlib/Seaborn, Selenium, BeatifulSoup, RegEx
 * **Visualization:** PowerBI, Tableau, Data Studio
-* **Spreadsheets:** VLOOKUP, pivots, conditionals
+* **ETL:** Azure Data Factory, Azure Synapse Analytics, SSIS, Power Automate
+* **Cloud:** Azure, Spark
 * **Machine Learning:** ScikitLearn, TensorFlow
   * **Supervised:** (regression, classification)  
   * **Unsupervised:** (clustering)
   * Neural Networks 
-* **Other Tools:** Azure, Spark, Jupyter/Colab, Salesforce
+* **Notebooks:** Jupyter, Azure Data Studio, Colab
+* **CRM:** SalesForce
+* **Other Tools:** SSMS, GitHub
 
 #### My **[Portfolio](https://www.tylerjsimpson.com/)** tends to lag behind but has some of my older projects.
