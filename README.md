@@ -9,8 +9,8 @@
 * **SQL:** CTEs, windows, functions, stored procedures
 * **Python:** Pandas/Numpy, PySpark, Matplotlib/Seaborn, Selenium, BeatifulSoup, RegEx
 * **Visualization:** PowerBI, Tableau, Data Studio
-* **ETL:** Azure Data Factory, Azure Synapse Analytics, SSIS, Power Automate
-* **Cloud:** Azure, Spark
+* **ETL:** Azure Data Factory, Azure Synapse Analytics, SSIS
+* **Cloud:** Azure, Spark, Power Platform
 * **Machine Learning:** ScikitLearn, TensorFlow
   * **Supervised:** (regression, classification)  
   * **Unsupervised:** (clustering)
