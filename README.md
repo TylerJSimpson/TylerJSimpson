@@ -6,17 +6,16 @@
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver.  
 
 ### Skills
-* **SQL:** CTEs, windows, functions, stored procedures
-* **Python:** Pandas/Numpy, PySpark, Matplotlib/Seaborn, Selenium, BeatifulSoup, RegEx
-* **Visualization:** PowerBI, Tableau, Data Studio
-* **ETL:** Azure Data Factory, Azure Synapse Analytics, SSIS
-* **Cloud:** Azure, Spark, Power Platform
-* **Machine Learning:** ScikitLearn, TensorFlow
-  * **Supervised:** (regression, classification)  
-  * **Unsupervised:** (clustering)
-  * Neural Networks 
-* **Notebooks:** Jupyter, Azure Data Studio, Colab
-* **CRM:** SalesForce
-* **Other Tools:** SSMS, GitHub
-
+* **Database:**	T-SQL, MySQL  
+* **Warehouse:** 	Spark SQL, NoSQL, Azure Synapse Analytics, Databricks  
+* **Programming:**	Python 
+  * **Packages:** Numpy, Pandas, Pyspark, Matplotlib, Seaborn, RegEx, Selenium, BeautifulSoup  
+  * **Machine Learning:** ScikitLearn, TensorFlow 
+* **Cloud:** 		Azure, Databricks, Power Platform  
+* **Visualization:** 	PowerBI, Tableau, Data Studio  
+* **Notebooks:**	Jupyter, Colab, Azure Data Studio  
+* **CRMs:**		SalesForce  
+* **Other tools:**	SSIS, GitHub  
+  
+  
 #### My **[Portfolio](https://www.tylerjsimpson.com/)** tends to lag behind but has some of my older projects.
