@@ -17,5 +17,5 @@
 * **CRMs:**		SalesForce  
 * **Other tools:**	SSIS, GitHub  
   
-  
+
 #### My **[Portfolio](https://www.tylerjsimpson.com/)** tends to lag behind but has some of my older projects.
