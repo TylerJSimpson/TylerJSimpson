@@ -1,8 +1,8 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
 ### I am a Data Engineer and Business System Analyst  
-- 🔭 *I’m currently working on* ... working on automating operations workflows in Azure and Power Platform and rewriting SSIS packages into the Azure cloud
+- 🔭 *I’m currently working on* ... automating operations workflows in Azure (logic apps) and Power Platform (power automate) and translating SSIS .dtsx project logic into Azure DataFactory
 - 🌱 *I’m currently learning* ... SnowPro Core -> SnowPro Data Engineer  
-- 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or **Email SimpsonDataScience@Gmail.com**  
+- 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or **Email SimpsonTylerJames@Gmail.com**  
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
 
 ### Skills
