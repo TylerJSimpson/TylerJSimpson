@@ -1,8 +1,8 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
 ### I am a Data Engineer and Business System Analyst  
-- 🔭 *I’m currently working on* ... automating operations workflows in Azure (logic apps) and Power Platform (power automate) and translating SSIS .dtsx project logic into Azure DataFactory
+- 🔭 *I’m currently working on* ... Outisde of work and consulting I am working on a personal project utilizing clinicaltrials.gov data.
 - 🌱 *I’m currently learning* ... SnowPro Core -> SnowPro Data Engineer  
-- 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or **Email SimpsonTylerJames@Gmail.com**  
+- 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or **Email SimpsonTylerJames@gmail.com**  
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
 
 ### Skills
@@ -10,12 +10,12 @@
 * **Warehouse:** 	Spark SQL, NoSQL, Azure Synapse Analytics, Databricks  
 * **Programming:**	Python 
   * **Packages:** Numpy, Pandas, Pyspark, Matplotlib, Seaborn, RegEx, Selenium, BeautifulSoup  
-  * **Machine Learning:** ScikitLearn, TensorFlow 
+  * **Machine Learning:** ScikitLearn, TensorFlow 2 
 * **Cloud:** 		Azure, Databricks, Power Platform  
 * **Visualization:** 	PowerBI, Tableau, Data Studio  
 * **Notebooks:**	Jupyter, Colab, Azure Data Studio  
 * **CRMs:**		SalesForce  
-* **Other tools:**	SSIS, GitHub  
+* **Other tools:**	SSIS, GitHub, Postman  
 
 ![Google Data Analyst](https://user-images.githubusercontent.com/94872173/208488735-32ae18ea-d8fa-4312-a526-daea347a19a7.png)
 ![Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
