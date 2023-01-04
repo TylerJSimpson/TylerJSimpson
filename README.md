@@ -1,6 +1,6 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-### I am a Data Engineer and Business System Analyst  
-- 🔭 *I’m currently working on* ... Outisde of work and consulting I am working on a personal project utilizing clinicaltrials.gov data.
+### I am a Data Engineer and Business System Analyst
+- 🔭 *I’m currently working on* ... Outisde of work and consulting I am working on a personal project utilizing clinicaltrials.gov data
 - 🌱 *I’m currently learning* ... SnowPro Core -> SnowPro Data Engineer  
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or **Email SimpsonTylerJames@gmail.com**  
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
