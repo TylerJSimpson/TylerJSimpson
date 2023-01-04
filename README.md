@@ -6,7 +6,7 @@
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
 
 ### Skills
-* **Database:**	T-SQL, MySQL  
+* **Database:**	T-SQL, MySQL, PostgreSQL  
 * **Warehouse:** 	Spark SQL, NoSQL, Azure Synapse Analytics, Databricks  
 * **Programming:**	Python 
   * **Packages:** Numpy, Pandas, Pyspark, Matplotlib, Seaborn, RegEx, Selenium, BeautifulSoup  
