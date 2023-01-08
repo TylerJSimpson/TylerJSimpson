@@ -8,7 +8,7 @@
 ### Skills
 * **Database:**	T-SQL, MySQL, PostgreSQL  
 * **Warehouse:** 	Spark SQL, NoSQL, Azure Synapse Analytics, Databricks  
-* **Programming:**	Python 
+* **Programming:**	Python, SQL, shell/cron 
   * **Packages:** Numpy, Pandas, Pyspark, Matplotlib, Seaborn, RegEx, Selenium, BeautifulSoup  
   * **Machine Learning:** ScikitLearn, TensorFlow 2 
 * **Cloud:** 		Azure, Databricks, Power Platform  
