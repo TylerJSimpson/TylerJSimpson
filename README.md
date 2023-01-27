@@ -1,7 +1,7 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
 ### I am a Data Engineer and Business System Analyst
 - 🔭 *I’m currently working on* ... Outside of work and consulting I am working on a personal project utilizing clinicaltrials.gov data
-- 🌱 *I’m currently learning* ... Databricks Certified Data Engineer Associate -> Databricks Certified Data Engineer Professional    
+- 🌱 *I’m currently learning* ... the [DataTalksClub Data Engineering Zoomcamp 2023 cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp)    
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or Email SimpsonTylerJames@gmail.com  
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
 
