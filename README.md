@@ -1,21 +1,22 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-### I am a Data Engineer and Business System Analyst
+### I am a Data Engineer
 - 🔭 *I’m currently working on* ... Outside of work and consulting I am working on a personal project utilizing clinicaltrials.gov data
 - 🌱 *I’m currently learning* ... the [DataTalksClub Data Engineering Zoomcamp 2023 cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp)    
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or Email SimpsonTylerJames@gmail.com  
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
 
 ### Skills
-* **Database:**	T-SQL, MySQL, PostgreSQL, SOSQL  
+* **SQL:**	T-SQL, MySQL, Spark SQL, PostgreSQL, SOSQL  
 * **Warehouse:** 	Spark SQL, NoSQL, Azure Synapse Analytics, Databricks  
-* **Programming:**	Python, SQL, shell/cron 
+* **Programming:**	Python, Bash/Shell  
   * **Packages:** Numpy, Pandas, Pyspark, Matplotlib, Seaborn, RegEx, Selenium, BeautifulSoup  
-  * **Machine Learning:** ScikitLearn, TensorFlow 2 
-* **Cloud:** 		Azure, Databricks, Power Platform  
+  * **Machine Learning:** ScikitLearn, TensorFlow 2  
+* **Azure:** Blob/Lake, Data Factory, Databricks, Synapse Analytics  
+* **GCP:** GCS, Dataflow, BigQuery  
 * **Visualization:** 	PowerBI, Tableau, Data Studio  
 * **Notebooks:**	Jupyter, Colab, Azure Data Studio  
 * **CRMs:**		SalesForce  
-* **Other tools:**	SSIS, GitHub, Postman  
+* **Other tools:**	SSIS, GitHub, Postman, Prefect, Terraform  
 
 ![Azure Data Engineer](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)
 ![Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)  
