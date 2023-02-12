@@ -16,7 +16,7 @@
 * **Visualization:** 	PowerBI, Tableau, Data Studio  
 * **Notebooks:**	Jupyter, Colab, Azure Data Studio  
 * **CRMs:**		SalesForce  
-* **Other tools:**	GitHub, Postman, Prefect, Terraform, JSON, SSIS  
+* **Other tools:**	GitHub, Postman, Prefect, Terraform, SSIS  
 
 ![Azure Data Engineer](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)
 ![Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)  
