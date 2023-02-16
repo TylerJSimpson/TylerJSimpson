@@ -7,16 +7,17 @@
 
 ### Skills
 * **SQL:**	T-SQL, MySQL, Spark SQL, PostgreSQL, SOSQL  
-* **Warehouse:** 	Databricks, BigQuery, Synapse Analytics
+* **Warehouse:** 	Databricks, BigQuery, Synapse Analytics  
 * **Programming:**	Python, Bash/Shell, DAX  
   * **Packages:** Numpy, Pandas, Pyspark, Matplotlib, Seaborn, RegEx, Selenium, BeautifulSoup  
   * **Machine Learning:** ScikitLearn, TensorFlow 2  
+* **ETL:** Prefect, Airflow, Data Factory, Dataflow, SSIS  
 * **Azure:** Blob/Lake, Data Factory, Logic Apps Databricks, Synapse Analytics  
 * **GCP:** GCS, Dataflow, BigQuery  
 * **Visualization:** 	PowerBI, Tableau, Data Studio  
 * **Notebooks:**	Jupyter, Colab, Azure Data Studio  
 * **CRMs:**		SalesForce  
-* **Other tools:**	DBT, GitHub, Postman, Prefect, Terraform, SSIS  
+* **Other tools:**	DBT, GitHub, Postman, Terraform  
 
 ![Azure Data Engineer](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)
 ![Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)  
