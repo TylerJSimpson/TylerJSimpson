@@ -12,7 +12,7 @@
   * **Packages:** Numpy, Pandas, Pyspark, Matplotlib, Seaborn, RegEx, Selenium, BeautifulSoup  
   * **Machine Learning:** ScikitLearn, TensorFlow 2  
 * **ETL:** Prefect, Airflow, Data Factory, Dataflow, SSIS  
-* **Azure:** Blob/Lake, Data Factory, Logic Apps Databricks, Synapse Analytics  
+* **Azure:** Blob/Lake, Data Factory, Logic Apps, Databricks, Synapse Analytics  
 * **GCP:** GCS, Dataflow, BigQuery  
 * **Visualization:** 	PowerBI, Tableau, Data Studio  
 * **Notebooks:**	Jupyter, Colab, Azure Data Studio  
