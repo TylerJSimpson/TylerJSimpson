@@ -14,7 +14,7 @@
 * **ETL:** Prefect, Airflow, Data Factory, Dataflow, SSIS  
 * **Azure:** Blob/Lake, Data Factory, Logic Apps, Databricks, Synapse Analytics  
 * **GCP:** GCS, Dataflow, BigQuery  
-* **Visualization:** 	PowerBI, Tableau, Data Studio  
+* **Visualization:** 	PowerBI, Tableau, Looker  
 * **Notebooks:**	Jupyter, Colab, Azure Data Studio  
 * **CRMs:**		SalesForce  
 * **Other tools:**	DBT, GitHub, Postman, Terraform  
