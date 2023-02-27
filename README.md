@@ -17,7 +17,7 @@
 #### Tools
 **Warehouse:** Databricks, BigQuery, Synapse Analytics  
 **Orchestration:** Prefect, Data Factory, Airflow, SSIS  
-**Transformation:** dbt, Databricks  
+**Transformation:** dbt, spark  
 **Visualization:** PowerBI, Tableau, Looker  
 **Notebooks:**	Jupyter, Colab, Azure Data Studio  
 **CRMs:**	SalesForce  
