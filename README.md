@@ -7,22 +7,16 @@
 
 ### Skills  
 #### Languages  
-**SQL:**	T-SQL, MySQL, Spark SQL, PostgreSQL, SOSQL  
-**Programming:**	Python, SQL, Bash/Shell, DAX  
+**SQL:**	T-SQL, PSQL, SOQL, Spark SQL  
+**Programming:**	Python, Bash/Shell, DAX  
 
-#### Cloud Stacks
-**Azure:** ADLS, Data Factory, Logic Apps, Databricks, Synapse Analytics  
-**GCP:** GCS, Dataflow, BigQuery  
-
-#### Tools
-**Warehouse:** Databricks, BigQuery, Synapse Analytics  
-**Orchestration:** Prefect, Data Factory, Airflow, SSIS  
-**Transformation:** dbt, spark  
-**Visualization:** PowerBI, Tableau, Looker  
-**Notebooks:**	Jupyter, Colab, Azure Data Studio  
-**CRMs:**	SalesForce  
-**Other:**	GitHub, Postman, Terraform  
+#### Stacks & Tools
+**Azure:** ADLS2, Data Factory, Logic Apps, Databricks, PowerBI  
+**GCP:** GCS, Dataflow, BigQuery, Colab, Looker  
+**Open Source:** Prefect, Spark, kafka, dbt, Jupyter, Looker  
+**Other:** GitHub, Salesforce, Tableau, Postman, JSON, Terraform  
   
+
 ![Azure Data Engineer](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)
 ![Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)  
 ![Google Data Analyst](https://user-images.githubusercontent.com/94872173/208488735-32ae18ea-d8fa-4312-a526-daea347a19a7.png)
