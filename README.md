@@ -13,8 +13,8 @@
 #### Stacks & Tools
 **Azure:** ADLS2, Data Factory, Logic Apps, Databricks, PowerBI  
 **GCP:** GCS, Dataflow, BigQuery, Colab, Looker  
-**Open Source:** Prefect, Spark, kafka, dbt, Jupyter, Looker  
-**Other:** GitHub, Salesforce, Tableau, Postman, JSON, Terraform  
+**Open Source:** Prefect, Spark, kafka, dbt, Jupyter, Looker, Docker  
+**Other:** GitHub, JSON, Linux, Postman, Salesforce, Tableau, Terraform
   
 
 ![Azure Data Engineer](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)
