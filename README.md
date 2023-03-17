@@ -1,5 +1,5 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-### I am a Data Engineer
+I am a **Data Engineer** with a background in Azure and GCP cloud technologies, SQL, ETL tools, and programming languages such as Python and Shell. Proven track record in designing and maintaining OLTP and OLAP databases, ETL pipelines, system integrations, workflow automation, and data-driven solutions. I use data and technology to develop and support businesses.  
 - 🔭 *I’m currently working on* ... Outside of work and consulting I am working on a personal project utilizing clinicaltrials.gov data
 - 🌱 *I’m currently learning* ... the [DataTalksClub Data Engineering Zoomcamp 2023 cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp)    
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or Email SimpsonTylerJames@gmail.com  
