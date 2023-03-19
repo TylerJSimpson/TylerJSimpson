@@ -11,7 +11,7 @@ I am a **Data Engineer** with a background in Azure and GCP cloud technologies, 
 **Programming:**	Python, Bash/Shell, DAX  
 
 #### Stacks & Tools
-**Azure:** ADLS2, Data Factory, Logic Apps, Databricks, PowerBI  
+**Azure:** ADLS2, Data Factory, Logic Apps, Databricks, PowerBI, DevOps  
 **GCP:** GCS, Dataflow, BigQuery, Colab, Looker  
 **Open Source:** Prefect, Spark, kafka, dbt, Jupyter, Looker, Docker  
 **Other:** GitHub, JSON, Linux, Postman, Salesforce, Tableau, Terraform
