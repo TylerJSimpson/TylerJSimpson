@@ -1,17 +1,19 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-I am a **Senior Data Engineer** with a background in Azure and GCP cloud technologies, SQL, ETL tools, and programming languages such as Python and Shell. Proven track record in designing and maintaining OLTP and OLAP databases, ETL pipelines, system integrations, workflow automation, and data-driven solutions. I use data and technology to develop and support businesses.  
+I am a **Data & Analytics Engineer** specializing in Azure and open-source solutions within the Fintech industry.  
+
+I utilize my expertise and experience in information technology, data, and statistics to construct comprehensive, data-intensive solutions for business challenges. 
 - 🔭 *I’m currently working on* ... Currently I am working on a personal [project](https://github.com/TylerJSimpson/p3dd_phase_3_due_diligence) involving clinical trial data 
-- 🌱 *I’m currently learning* ... I just finished the [DataTalksClub Data Engineering Zoomcamp 2023 cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp) and am working on improving my Spark and GitHub Actions knowledge    
+- 🌱 *I’m currently learning* ... Apache Spark, GitHub actions, and studying for the AZ-104 Azure Adiministrator Exam   
 - 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or Email SimpsonTylerJames@gmail.com  
 - ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
 
 ### Skills  
 #### Languages  
 **SQL:**	T-SQL, PSQL, SOQL, Spark SQL  
-**Programming:**	Python, Bash/Shell, DAX  
+**Programming:**	Python, Shell, DAX  
 
 #### Stacks & Tools
-**Azure:** ADLS2, Data Factory, Logic Apps, Databricks, PowerBI, DevOps  
+**Azure:** ADLS2, Data Factory, Azure SQL, VM, VNet/NSG, Logic Apps, Databricks, PowerBI, DevOps  
 **GCP:** GCS, Dataflow, BigQuery, Colab, Looker  
 **Open Source:** Prefect, Spark, kafka, dbt, Jupyter, Looker, Docker  
 **Other:** GitHub, JSON, Linux, Postman, Salesforce, Tableau, Terraform
