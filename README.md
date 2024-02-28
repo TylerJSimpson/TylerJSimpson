@@ -1,22 +1,29 @@
 ## Hello! I'm [Tyler Simpson](https://www.tylerjsimpson.com/)
-I am a **senior data engineer** specializing in Azure and open-source solutions within the Fintech industry.  
+**senior data/software engineer** specializing in Azure and open-source solutions within the Fintech industry.  
+I utilize my expertise and experience in information technology, data, and statistics to construct comprehensive, data-intensive solutions for business challenges.  
 
-I utilize my expertise and experience in information technology, data, and statistics to construct comprehensive, data-intensive solutions for business challenges.
-- 🔭 *I’m currently working on* ... Currently I am working on a personal [the Machine Learning Zoomcamp 2023 cohort](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts/2023) 
-- 🌱 *I’m currently learning* ... Apache Spark, GitHub actions, and studying for the AZ-104 Azure Adiministrator Exam   
-- 📫 *How to reach me:* ... **[LinkedIn](https://www.linkedin.com/in/tj-simpson/)** or Email SimpsonTylerJames@gmail.com  
-- ⚡ *Fun fact:* ... I am an avid rock climber and scuba diver  
+Technical founder of software development company [Granum Technologies LLC](https://www.granum-tech.com)  
+info@granum-tech.com  
+
+Products: 
+- **creditparsepro.io**
+  - [creditparsepro.io](https://www.creditparsepro.io)
+  - [github.com/creditparsepro](https://github.com/creditparsepro)
+  - [X/Twitter](https://twitter.com/creditparsepro)
+  - info@creditparsepro.io
+- **phase 3 due dilligence**
+  - coming soon....
 
 ### Skills  
 #### Languages  
-**SQL:**	T-SQL, PSQL, SOQL, Spark SQL  
-**Programming:**	Python, Shell
+**SQL**	(T-SQL, PSQL, SOQL, Spark SQL)  
+**Python**  
+**Bash/Powershell**  
 
 #### Stacks & Tools
-**Azure:** ADLS2, Data Factory, Azure SQL, VM, VNet/NSG, Logic Apps, Databricks, PowerBI, DevOps, Functions, Machine Learning   
-**GCP:** GCS, Dataflow, BigQuery, Colab, Looker  
+**Azure:** ADLS2, Data Factory, Azure SQL, VM, VNet/NSG, Logic Apps, Databricks, Power BI, DevOps, Functions, Machine Learning, Container Registry/Apps  
 **Open Source:** Prefect, Spark, Kafka, dbt, Jupyter, Looker, Docker  
-**Other:** GitHub, JSON, Linux, Postman, Salesforce, Tableau, Terraform
+**Other:** GitHub, JSON, Linux, Postman, Salesforce, Tableau, Terraform  
   
 
 ![Azure Data Engineer](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)
