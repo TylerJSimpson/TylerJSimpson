@@ -1,33 +1,48 @@
 ## Hello! I'm [Tyler Simpson](https://www.linkedin.com/in/tj-simpson/)
-I'm a data engineer, director, and technical founder specializing in developing data-driven solutions to complex problems in the fintech industry.
+I'm a data engineer, director, and technical founder specializing in developing data-driven solutions to complex problems in the fintech and science domains.
 
 ---
 
-### Technical Founder of [Granum Technologies LLC](https://www.granum-tech.com)
-info@granum-tech.com
+### Technical Founder of Granum Technologies LLC
 
-### Products
-- **creditparsepro.io**
-  - [creditparsepro.io](https://www.creditparsepro.io)
-  - [github.com/creditparsepro](https://github.com/creditparsepro)
-  - [twitter.com/creditparsepro](https://twitter.com/creditparsepro)
-  - info@creditparsepro.io
-- **phase 3 due dilligence**
-  - coming soon....
+At Granum Technologies LLC, our mission is to research and develop software solutions that address unmet needs. Our inspiration comes from the granum, a crucial component in plant cells essential for photosynthesis, symbolizing our commitment to being at the core of technological innovation.
+
+https://www.granum-tech.com  
+info@granum-tech.com  
+https://twitter.com/granum_tech  
+https://github.com/granum-tech
 
 ---
 
 ### Skills  
 
 #### Languages  
-**SQL**
+**SQL**  
 **Python**  
+**Java**  
 **Bash**  
 
 #### Stacks & Tools
-**Azure:** ADLS2, Data Factory, Azure SQL, VM, VNet/NSG, Logic Apps, Databricks, Power BI, DevOps, Functions, Machine Learning, Container Registry/Apps  
-**Open Source:** Prefect, Spark, Kafka, dbt, Jupyter, Looker, Docker  
-**Other:** GitHub, JSON, Linux, Postman, Salesforce, Tableau, Terraform  
+**Azure:**  
+  * object storage: ADLS2
+  * database: Azure SQL
+  * orchestration: Data Factory
+  * transformation: Databricks, Functions, Logic Apps
+  * machine learning: Machine Learning Studio
+  * devops: VM, DevOps, Container Registry, Container Apps
+  * analytics: Databricks, Power BI
+  * networking/security: VNet/subnet, NSG
+
+**Open Source:**  
+  * database: PostgreSQL, SQLite, MySQL
+  * orchestration: Prefect
+  * transformation: dbt, Spark
+  * machine learning: MLFlow
+  * devops: Linux, Docker, GitHub, Terraform
+  * analytics: Looker, Tableau
+  * streaming: kafka
+  * crm: Hubspot, Salesforce
+  * other: Jupyter Notebooks, Colab Notebooks, Postman
 
 ---
 
@@ -41,7 +56,6 @@ info@granum-tech.com
 * [Google Data Analytics Professional](https://www.credly.com/badges/ca070c1e-14a7-43d4-83cc-e3bb6f8b9b6b/linked_in_profile)
 * [365 Data Science Data Scientist](https://learn.365datascience.com/certificates/DD-DA8720F04E/)
 * [Georgia Tech Introduction to Python Programming](https://credentials.edx.org/credentials/c7954178f45c4ec9940be34c6bf6e751/)
-* [Google Data Analytics Professional](https://www.credly.com/badges/ca070c1e-14a7-43d4-83cc-e3bb6f8b9b6b/linked_in_profile)
 
 #### Future:
 * 2024 Q3 - [Georgia Tech Object Oriented Programming with Java](https://courses.edx.org/dashboard/programs/a6a971e7-84f4-4f10-bb15-eb577222ed44/?_gl=1*12sr4z0*_gcl_au*MTA3MzY1OTIxMC4xNzEyMzE5MzU2*_ga*MTE3MDYyNTc4NC4xNjk0MzU4MTkz*_ga_D3KS4KMDT0*MTcxODgwMjE1OS4zOC4xLjE3MTg4MDY1NDkuNTkuMC4w)
