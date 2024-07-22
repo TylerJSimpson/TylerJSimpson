@@ -17,32 +17,38 @@ https://github.com/granum-tech
 ### Skills  
 
 #### Languages  
-**SQL**  
-**Python**  
-**Java**  
-**Bash**  
+
+* Python
+* SQL
+* Bash
+* Java
 
 #### Stacks & Tools
-**Azure:**  
-  * object storage: ADLS2
-  * database: Azure SQL
-  * orchestration: Data Factory
-  * transformation: Databricks, Functions, Logic Apps
-  * machine learning: Machine Learning Studio
-  * devops: VM, DevOps, Container Registry, Container Apps
-  * analytics: Databricks, Power BI
-  * networking/security: VNet/subnet, NSG
 
-**Open Source:**  
-  * database: PostgreSQL, SQLite, MySQL
-  * orchestration: Prefect
-  * transformation: dbt, Spark
-  * machine learning: MLFlow
-  * devops: Linux, Docker, GitHub, Terraform
-  * analytics: Looker, Tableau
-  * streaming: kafka
-  * crm: Hubspot, Salesforce
-  * other: Jupyter Notebooks, Colab Notebooks, Postman
+**Azure:**
+|Purpose|Service(s)|
+|-------|----------|
+|object storage|ADLS2|
+|database|Azure SQL|
+|orchestration|Data Factory, Databricks|
+|transformation|Databricks, Functions, Logic Apps|
+|machine learning|Machine Learning Studio|
+|devops|VM, DevOps, Container Registry, Container Apps|
+|analytics|Databricks, Power BI|
+|networking/security|VNet/subnet, NSG|
+
+**Open Source:** 
+|Purpose|Service(s)|
+|-------|----------|
+|database|PostgreSQL, SQLite, MySQL|
+|orchestration|Prefect|
+|transformation|dbt, Spark|
+|machine learning|MLFlow|
+|devops|Linux, Docker, GitHub, Terraform|
+|analytics|Looker, Tableau|
+|streaming|kafka|
+|crm|HubSpot, Salesforce|
+|other|Jupyter, Colab, Postman|
 
 ---
 
